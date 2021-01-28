@@ -1,0 +1,14 @@
+div.image-list {
+    margin: 1rem;
+    display: block;
+    align-content: center;
+}
+
+h1 {
+    display: block;
+    text-align: center;
+}
+
+img {
+    margin: 1rem;
+}
